@@ -15,7 +15,7 @@ Transformador   | Entrada: 127V/220V / Saída: 12V + 12V 500mA | Modifica o pot�
 Ponte de diodos | 50-1000V/10A | Retifica uma corrente alternada para continua                                | [R$4,40](https://www.filipeflop.com/produto/modulo-ponte-h-kbu1010-retificadora/#tab-wc-simulador-parcelas) 
 Capacitor       | 330µF/25V | Armazena carga elétrica num campo elétrico                                   | [R$0,89](https://www.filipeflop.com/produto/capacitor-eletrolitico-330%C2%B5f-25v-x5-unidades/)
 Diodo Zener     | 13V/0,5W | Regula a tensão elétrica                                                        | [R$0,19]( https://www.filipeflop.com/produto/diodo-zener-2-a-39v/) 
-Resistor        | 2.2KΩ |Diminui o consumo de energia, limitando a corrente que passa pelo Zener | [R$2,90](https://www.filipeflop.com/produto/resistor-2-2k-14w-x20-unidades/) 
+Resistor        | 1KΩ |Diminui o consumo de energia, limitando a corrente que passa pelo Zener | [R$0,29](https://www.filipeflop.com/produto/resistor-1k%CF%89-14w-x20-unidades/)
 Resistor        | 1KΩ | Limita a corrente elétrica que passará pelo LED                                      | [R$0,29](https://www.filipeflop.com/produto/resistor-1k%CF%89-14w-x20-unidades/)
 Resistor        | 5.1KΩ | Impede que o potenciometro diminua a corrente abaixo de 3V                         | [R$0,29](https://www.filipeflop.com/produto/resistor-2-2k-14w-x20-unidades/)
 Pôtenciometro   | 10K | Regula a corrente elétrica do circuito entre 12V-3V                       | [R$3,90](https://www.filipeflop.com/produto/potenciometro-linear-10k/)  
