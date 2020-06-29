@@ -47,5 +47,5 @@ Total     |   |                                       | R$32,75
 
  - Elisa Rachel Beninca Martins. Número USP: XXXXXXX.
  - Igor Mateus Queiroz Gato. Número USP: 10261481.
- - Jonatas A Lopes. Número USP: 11796552.
+ - Jonatas A Lopes. Número USP: XXXXXXX.
  - Mateus dos Santos Ribeiro. Número USP: XXXXXXX.
