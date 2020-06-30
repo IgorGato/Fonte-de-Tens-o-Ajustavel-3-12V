@@ -28,7 +28,7 @@ Total     |   |                                       | R$32,75
 ## Circuito do projeto
 
 - ## Falstad 
-![falstad](https://github.com/IgorGato/Fonte-de-Tensao-Ajustavel-3-12V/blob/master/Simulacao%20do%20circuito.png)
+![falstad](https://github.com/IgorGato/Fonte-de-Tensao-Ajustavel-3-12V/blob/master/simulacao.png)
   A imagem acima foi obtida através da montagem do circuito no simulador falstad, e pode ser acessada atraves do link: 
   [Simulação Falstad](http://tinyurl.com/ybvgt9q6)
   
