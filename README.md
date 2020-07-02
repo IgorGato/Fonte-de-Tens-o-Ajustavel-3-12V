@@ -32,12 +32,12 @@ Total     |   |                                       | R$32,75
   A imagem acima foi obtida através da montagem do circuito no simulador falstad, e pode ser acessada atraves do link: 
   [Simulação Falstad](http://tinyurl.com/ybvgt9q6)
   
-  Uma explicação completa do circuito pode ser encontrada neste link no youtube.
+  Uma explicação completa do circuito pode ser encontrada neste link no [youtube](https://youtu.be/xHWKMXMJFz8).
   
 - ## Eagle 
 
   Atraves do programa Eagle foi possivel desenhar a placa e todas as conexoes necessarias para possivel montagem da fonte, demonstrado nas imagens abaixo:
-![Esquematico do Eagle](https://github.com/IgorGato/Fonte-de-Tensao-Ajustavel-3-12V/blob/master/eagle.jpeg)
+![Esquematico do Eagle](https://github.com/IgorGato/Fonte-de-Tensao-Ajustavel-3-12V/blob/master/Simulacao%20EAGLE.jpeg)
 
 - ## PCB
 ![PCB](https://github.com/IgorGato/Fonte-de-Tensao-Ajustavel-3-12V/blob/master/PCB.jpeg)
