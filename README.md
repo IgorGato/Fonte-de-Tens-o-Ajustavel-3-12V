@@ -19,7 +19,7 @@ Resistor        | 1KΩ |Diminui o consumo de energia, limitando a corrente que p
 Resistor        | 1KΩ | Limita a corrente elétrica que passará pelo LED                                      | [R$0,29](https://www.filipeflop.com/produto/resistor-1k%CF%89-14w-x20-unidades/)
 Resistor        | 5.1KΩ | Impede que o potenciometro diminua a corrente abaixo de 3V                         | [R$0,29](https://www.filipeflop.com/produto/resistor-2-2k-14w-x20-unidades/)
 Pôtenciometro   | 10K | Regula a corrente elétrica do circuito entre 12V-3V                       | [R$3,90](https://www.filipeflop.com/produto/potenciometro-linear-10k/)  
-Transistor      | 40V/200mA  | Limitar a corrente elétrica                                        | [R$0,59](https://www.filipeflop.com/produto/transistor-a1015-pnp-x10-unidades/) 
+Transistor      | 2N3906-NPN 40V/200mA  | Limitar a corrente elétrica                                        | [R$0,59](https://www.filipeflop.com/produto/transistor-2n3906-npn-x10-unidades/) 
 LED     | 3.0-3.2V/20mA  | Muda a intensidade de seu brilho dependendo da corrente                                        | [R$0,29](https://www.filipeflop.com/produto/led-difuso-5mm-verde-x10-unidades/)
 Total     |   |                                       | R$32,75
 
