@@ -40,7 +40,7 @@ Total     |   |                                       | R$32,75
 ![Esquematico do Eagle](https://github.com/IgorGato/Fonte-de-Tensao-Ajustavel-3-12V/blob/master/eagle.jpeg)
 
 - ## PCB
-![PCB](https://github.com/IgorGato/Fonte-de-Tensao-Ajustavel-3-12V/blob/master/FONTE.jpeg)
+![PCB](https://github.com/IgorGato/Fonte-de-Tensao-Ajustavel-3-12V/blob/master/PCB.jpeg)
 
 
 # Participantes
